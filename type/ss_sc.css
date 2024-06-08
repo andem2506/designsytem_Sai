@@ -1,0 +1,75 @@
+@font-face {
+    font-family: silkscreen_bold;
+    src: url(../type/fonts/Silkscreen/Silkscreen-Bold.ttf);
+  }
+  @font-face{
+    font-family: silkscreen_regular;
+    src: url(../type/fonts/Silkscreen/Silkscreen-Regular.ttf);
+  }
+  @font-face{
+    font-family: Source_code_pro;
+    src: url(../type/fonts/Source_Code_Pro/SourceCodePro-VariableFont_wght.ttf);
+  }
+  @font-face{
+    font-family:Source_code_pro_italic;
+    src: url(../type/fonts/Source_Code_Pro/SourceCodePro-Italic-VariableFont_wght.ttf);
+  }
+h1 {
+    font-family: silkscreen_bold;
+      font-size: 67.773px;
+      font-weight: 400;
+  }
+h2 {font-family: silkscreen_bold;
+      font-size: 41.887px;
+      font-weight: 400;
+  }
+  
+h3 {
+    font-family: silkscreen_regular;
+      font-size: 25.888px;
+      font-weight: 400;
+  }
+h4 {
+    font-family: silkscreen_regular;
+      font-size: 25.888px;
+      font-weight: 600;
+  }
+p {
+      font-size: 16px;
+      font-weight: 400;
+  }
+em {
+    font-family: Source_code_pro_italic ;
+      font-size: 16px;
+      font-weight: 800;
+  }
+a {
+  font-size: 16px;
+  font-weight: 400;
+  font-style: normal;
+  text-decoration: underline;
+  text-decoration-thickness: 0.1rem;
+  text-decoration-color: #67befb;
+  }
+a:hover {
+    font-size: 16px;
+    font-weight: 600;
+    font-style: normal;
+    text-decoration: underline;
+    text-decoration-thickness: 0.1rem;
+    text-decoration-color: #2ea2f5;
+    }
+.titlemain3{
+      text-align: center;
+      font-family: silkscreen_bold;
+    }
+code{
+      color: rgb(53, 53, 53);
+    }
+
+.scp{
+    font-family:Source_code_pro ;
+}
+.type4{
+    color: black;
+}

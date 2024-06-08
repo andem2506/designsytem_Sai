@@ -1,0 +1,64 @@
+
+@font-face {
+  font-family: Josefin_Slab;
+  src: url(../type/fonts/Josefin_Slab/JosefinSlab-VariableFont_wght.ttf);
+}
+@font-face{
+  font-family: Josefin_Slab_Italic;
+  src: url(../type/fonts/Josefin_Slab/JosefinSlab-Italic-VariableFont_wght.ttf);
+}
+.jslab{
+  font-family:Josefin_Slab;
+}
+
+.jslab h1 {
+	font-size: 90.441px;
+	font-weight: 400;
+}
+.jslab h2 {
+	font-size: 63.961px;
+	font-weight: 400;
+}
+
+.jslab h3 {
+	font-size: 45.234px;
+	font-weight: 400;
+}
+.jslab h4 {
+	font-size: 31.99px;
+	font-weight: 400;
+}
+.jslab p {
+	font-size: 16px;
+	font-weight: 400;
+}
+.jslab em {
+  font-family: Josefin_Slab_Italic ;
+	font-size: 16px;
+	font-weight: 800;
+}
+.jslab a {
+font-size: 16px;
+font-weight: 400;
+font-style: normal;
+text-decoration: underline;
+text-decoration-thickness: 0.1rem;
+text-decoration-color: #67befb;
+}
+.jslab a:hover {
+  font-size: 16px;
+  font-weight: 600;
+  font-style: normal;
+  text-decoration: underline;
+  text-decoration-thickness: 0.1rem;
+  text-decoration-color: #2ea2f5;
+  }
+  .titlemain{
+    text-align: center;
+  }
+  code{
+    color: rgb(53, 53, 53);
+  }
+.type4{
+  color: black;
+}
